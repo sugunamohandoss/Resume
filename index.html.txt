@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>Sugu's Portfolio</title>
+</head>
+
+<body>
+<h1> SUGUNA MOHANDOSS </h1>
+<p>Phone: 757-447-8333 <br /> Email:sugunamohandoss@yahoo.com </p> 
+<hr />
+<h2> OBJECTIVE </h2>
+<P> Seeking a challenging career who loves to be around people and thrives on building Gospel centered relationships, which provides an opportunity for learning and improving my skills. To utilize my skills in a progressive and Spiritual Environment, in a manner that will provide profitable solutions to my Organization. I am a quick learner and adopt new technologies quickly and start work on them immediately </p> <hr />
+<h2>EDUCATIONAL DETAILS </h2>
+    <ul>
+    <li>Master of Technology in Embedded Systems at SASTRA Deemed University, Tamilnadu, India (2003-2005)</li>
+    <li>Bachelor of Engineering in Computer Science at Madurai Kamaraj University, Tamilnadu, India (1998- 2002) </li>
+    <li>Certification of Bible Studies at Eternal Grace Online Bible School (Mar 2021 to Till Date)</li>
+     </ul>
+
+<hr />
+<h2> TECHNICAL SKILLS </h2>
+
+       <ul>
+       <li> Oracle</li>
+       <li> SQL </li>
+        <li> HTML </li>
+        <li> CSS </li>
+       <li> Java Script </li>
+       <li> React </li>
+       </ul>
+
+<hr />
+
+<h2>TECHNICAL EXPERIENCE DETAILS</h2>
+<ul> 
+<li>Lecturer in Jeppiar egg college, India</li>
+<li> Project Trainee </li>
+</ul>
+ 
+<hr />
+<footer>
+       <p>Thank You!!</p>
+   </footer>
+    
+</body>
+</html>
